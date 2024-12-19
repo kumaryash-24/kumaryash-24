@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Go to Top Example</title>
+    <style>
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        /* Style for Go to Top button */
+        #goTopBtn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #1A9AF7;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            padding: 10px 15px;
+            font-size: 18px;
+            cursor: pointer;
+            display: none; /* Initially hidden */
+        }
+
+        /* Show the button when the user scrolls down */
+        #goTopBtn.show {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div style="height: 2000px; padding: 20px; text-align: center;">
+        <h1>Scroll down and see the Go to Top button!</h1>
+        <p>Keep scrolling to see the button at the bottom right corner of the page.</p>
+    </div>
+
+    <!-- Go to Top Button -->
+    <button id="goTopBtn" onclick="scrollToTop()">🔝</button>
+
+    <script>
+        // Show the button when the user scrolls down 100px from the top
+        window.onscroll = function() {
+            var goTopBtn = document.getElementById('goTopBtn');
+            if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+                goTopBtn.classList.add('show');
+            } else {
+                goTopBtn.classList.remove('show');
+            }
+        };
+
+        // Function to scroll the page to the top
+        function scrollToTop() {
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+</body>
+</html>

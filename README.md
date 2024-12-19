@@ -75,7 +75,7 @@
  
 
   <!-- Text -->
-  <h2 style="margin: 0; font-size: 24px; color: #1A9AF7;">## Hello, Nice to Meet You !! <a href="#--gifs-for-readme--" style="color: #fff; text-decoration: none;">[🔝]</a></h2>
+  <h2 style="margin: 0; font-size: 24px; color: #1A9AF7;"> Hello, Nice to Meet You !! <a href="#--gifs-for-readme--" style="color: #fff; text-decoration: none;">[🔝]</a></h2>
   
   <!-- ASCII Art -->
   <pre style="font-family: monospace; font-size: 12px; white-space: pre; margin-top: 20px;">

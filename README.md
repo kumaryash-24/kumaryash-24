@@ -57,7 +57,7 @@
 <!-- Add your Go to Top demo link here -->
 
 <div align="center">
-  <h2>Check out my <a href="https://kumaryash-24.github.io/your-repository-name/">Go to Top Demo Page</a>!</h2>
+  <h2>Check out my <a href="https://kumaryash-24.github.io/kumaryash-24/">Go to Top Demo Page</a>!</h2>
 </div>
 
 <div align="center">

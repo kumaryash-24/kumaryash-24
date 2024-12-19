@@ -80,11 +80,10 @@
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; background-color: #111; color: #fff; text-align: center;">
  
 
-  <!-- Text -->
-  <h2 style="margin: 0; font-size: 24px; color: #1A9AF7;"> Hello, Nice to Meet You !! <a href="#--gifs-for-readme--" style="color: #fff; text-decoration: none;">[🔝]</a></h2>
   
-  <!-- ASCII Art -->
-  <pre style="font-family: monospace; font-size: 12px; white-space: pre; margin-top: 20px;">
+ ## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
+
+```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -105,6 +104,4 @@
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-  </pre>
-</div>
-
+```

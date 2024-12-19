@@ -72,8 +72,7 @@
 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100vh; background-color: #111; color: #fff; text-align: center;">
-  <!-- Image -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Greeting Image" style="width: 600px; height: auto; margin-bottom: 20px;">
+ 
 
   <!-- Text -->
   <h2 style="margin: 0; font-size: 24px; color: #1A9AF7;">## Hello, Nice to Meet You !! <a href="#--gifs-for-readme--" style="color: #fff; text-decoration: none;">[🔝]</a></h2>

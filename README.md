@@ -56,13 +56,13 @@
 
 
 
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/>
+  
+  ![snake gif](https://github.com/kumaryash-24/kumaryash-24/blob/output/github-snake-dark.svg)
+  
 </div>
-
 <hr/>
 
 <div align="center" style="text-align: center;">
@@ -77,7 +77,7 @@
  
 
   
- ## Hello, Nice to Meet You !! [🔝](#--gifs-for-readme--)
+ ## Hello, Nice to Meet You ❤️
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗

@@ -25,7 +25,7 @@
 
 <p align="left"> 
   <a href="https://instagram.com/kumar_yash24" target="blank">
-    <img src="https://img.shields.io/badge/Follow-kumar__yash24-blue?style=for-the-badge&logo=instagram" alt="kumar_yash24" />
+    <img src="https://img.shields.io/badge/kumar__yash24-blue?style=for-the-badge&logo=instagram" alt="kumar_yash24" />
   </a> 
 </p>
 

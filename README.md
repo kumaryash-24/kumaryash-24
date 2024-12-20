@@ -108,7 +108,7 @@
 ```
 
 <p align="center">
-  <a href="https://buymeacoffee.com/auE5ptlG97" target="_blank">
+  <a href="https://www.buymeacoffee.com/Kumar_yash24" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
   </a>
 </p>

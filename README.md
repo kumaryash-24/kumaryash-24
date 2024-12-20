@@ -72,7 +72,7 @@
 
 <div align="center" style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaryash-24&show_icons=true&locale=en&layout=compact&theme=dark&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="kumaryash-24" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kumaryash-24&show_icons=true&locale=en&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="kumaryash-24" style="margin: 10px;" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=kumaryash-24&show_icons=true&locale=en&theme=dark&count_private=true&token=YOUR_PERSONAL_ACCESS_TOKEN" alt="kumaryash-24" style="margin: 10px;" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaryash-24&theme=dark" alt="kumaryash-24" style="margin: 10px;" />
 </div>
 

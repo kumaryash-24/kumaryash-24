@@ -23,7 +23,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaryash-24&label=Profile%20views&color=0e75b6&style=flat" alt="kumaryash-24" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kumaryash24" target="blank"><img src="https://img.shields.io/twitter/follow/kumaryash24?logo=twitter&style=for-the-badge" alt="kumaryash24" /></a> </p>
+<p align="left"> 
+  <a href="https://instagram.com/kumar_yash24" target="blank">
+    <img src="https://img.shields.io/badge/Follow-kumar__yash24-blue?style=for-the-badge&logo=instagram" alt="kumar_yash24" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **Developer Collaboration Tool**
 

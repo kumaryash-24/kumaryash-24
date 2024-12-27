@@ -4,6 +4,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="700" height="200">
   </a>
 </div>
+
 # Hello, I'm [Kumar Yash!](https://www.linkedin.com/in/kumar-yash-592973227)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer;Competitive+Coder)](https://www.linkedin.com/in/kumar-yash-592973227)

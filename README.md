@@ -30,7 +30,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Developer Collaboration Tool**
+- 🔭 I’m currently working on **Bookmark Vault**
 
 - 🌱 I’m currently learning **DevOps, AWS, Spring Boot, Terraform, CI/CD Pipelines, Cloud Computing, Data Structures and Algorithms**
 

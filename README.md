@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **kumaryash24042002@gmail.com**
 
-- ⚡ Fun fact **Bug fixing...or creating new features?**
+- ⚡ Fun fact **Bug fixing...or creating new features**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

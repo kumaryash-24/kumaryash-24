@@ -32,7 +32,7 @@
 
 - 🔭 I’m currently working on **Bookmark Vault**
 
-- 🌱 I’m currently learning **DevOps, AWS, Spring Boot, Terraform, CI/CD Pipelines, Cloud Computing, Data Structures and Algorithms**
+- 🌱 I’m currently learning  **AWS, Terraform, Cloud Computing, Data Structures and Algorithms**
 
 - 💬 Ask me about **Python, Java, MERN, NumPy and Pandas**
 

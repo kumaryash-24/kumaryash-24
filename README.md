@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://martinvalda.com/img/about.gif">
 

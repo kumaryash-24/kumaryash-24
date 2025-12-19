@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer+java+Developer;Competitive+Coder)](https://www.linkedin.com/in/kumar-yash-592973227)
   
-## About 
+## About     
 ![](https://i.imgur.com/waxVImv.png)
   
 👋 Hi there! I'm Kumar Yash, a passionate software developer with a love for coding and problem-solving. My expertise lies in Python, Java, MERN Stack, and I enjoy building scalable and efficient applications. Currently pursuing B.Tech in Computer Science from GIET UNIVERSITY, I'm dedicated to staying updated with the latest technologies and contributing to open-source projects. When I'm not glued to my computer screen, you can find me playing chess or indulging in Photography. Let's connect and collaborate on exciting projects!

@@ -7,7 +7,7 @@
 # Hello, I'm [Kumar Yash!](https://www.linkedin.com/in/kumar-yash-592973227)    
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+a+Full+Stack+Web+Developer+java+Developer;Competitive+Coder)](https://www.linkedin.com/in/kumar-yash-592973227)
-
+  
 ## About 
 ![](https://i.imgur.com/waxVImv.png)
   
